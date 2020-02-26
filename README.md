@@ -22,6 +22,7 @@ Finalizada la prueba recuerda enviar link del proyecto o tu repositorio a [desar
 ![](https://i.imgur.com/1TBR0tu.png)
 
 __Imaginemos lo siguiente:__ Tenemos un sitio web llamado __solucionesonline.demo__ en el cual cualquier usuario registado puede publicar un servicio ejemplo __"Aprende a tocar el piano"__ el cual tiene un descripción,  entre otras características.
+
 Las vistas la debes realizar en `BLADE`
 
 # Ejercicios
